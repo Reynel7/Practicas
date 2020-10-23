@@ -19,7 +19,7 @@ export default function Login() {
         
         </div>
         <div>
-        <Button variant="primary">Primary</Button>
+        <Button variant="primary">INGRESAR</Button>
         </div>
         </div>
     )
