@@ -1,5 +1,9 @@
-import React from "react";
-import Button from 'react-bootstrap/Button'
+import React from 'react';
+
+
+import { Button, Input } from 'antd';
+
+
 export default function Login() {
     
   
@@ -19,7 +23,8 @@ export default function Login() {
         
         </div>
         <div>
-        <Button variant="primary">INGRESAR</Button>
+ 
+        <Button type="primary">REGISTRED</Button>
         </div>
         </div>
     )
